@@ -1,0 +1,58 @@
+ivana|1111AB|5C|03-01-2024|S|500.0|pera
+milaa|1113AB|5D|04-01-2024|S|450.0|rade
+milaa|1118AB|5B|05-01-2024|S|370.0|rade
+Nikola Nikolic|1115AB|5B|05-01-2024|S|300.0|rade
+Nikola Nikolic|1115AB|5C|05-01-2024|S|300.0|rade
+Marta Martic|1124AD|4B|09-01-2024|S|380.0|pera
+Marta Martic|1124AD|4C|09-01-2024|S|380.0|pera
+lara|1115AC|5C|10-01-2024|S|300.0|lazar
+milan|1121AB|5D|10-01-2024|S|450.0|lazar
+Slavica Zvekic|1118AC|5C|11-01-2024|S|370.0|rade
+milan|1115AC|5B|12-01-2024|S|300.0|lazar
+milan|1115AC|5A|12-01-2024|S|300.0|lazar
+Ana Lazic|1120AF|5B|12-01-2024|S|330.0|lazar
+Mina Nikin|1112AF|5D|12-01-2024|S|530.0|milica
+Mina Nikin|1112AF|5C|12-01-2024|S|530.0|milica
+Mina Nikin|1112AF|5E|12-01-2024|S|530.0|milica
+ivana|1125AB|4C|12-01-2024|S|420.0|milica
+ivana|1125AB|4D|12-01-2024|S|420.0|milica
+Filip Visnjic|1126AA|3C|12-01-2024|S|390.0|milica
+Jovan Jovanovic|1119AB|5D|12-01-2024|S|360.0|rade
+Slavica Zvekic|1118AC|5C|12-01-2024|S|370.0|rade
+Bojana Lukic|1122AB|5B|12-01-2024|S|320.0|pera
+Bojana Lukic|1122AB|5C|12-01-2024|S|320.0|pera
+Bojana Lukic|1122AB|5D|12-01-2024|S|320.0|pera
+ivana|1126AA|4C|12-01-2024|S|390.0|pera
+ivana|1126AA|4B|12-01-2024|S|390.0|pera
+ljubica|1118AC|4B|12-01-2024|S|370.0|milica
+ljubica|1118AC|4A|12-01-2024|S|370.0|milica
+Ema Smiljanic|1124AA|4C|12-01-2024|S|380.0|milica
+Ema Smiljanic|1124AA|4D|12-01-2024|S|380.0|milica
+milan|1126AC|2C|12-01-2024|S|390.0|milica
+milan|1125AA|3C|12-01-2024|S|370.0|milica
+ivana|1124AA|3B|13-01-2024|S|380.0|pera
+ivana|1123AA|5C|13-01-2024|S|450.0|rade
+ivana|1123AA|4B|14-01-2024|S|450.0|milica
+ivana|1123AA|4A|14-01-2024|S|450.0|milica
+Irina Perisic|1121AC|4E|14-01-2024|S|450.0|pera
+Irina Perisic|1121AC|4C|14-01-2024|S|450.0|pera
+ivana|1121AC|5D|14-01-2024|S|450.0|pera
+ivana|1121AC|5C|14-01-2024|S|450.0|pera
+ivana|1116AC|5C|14-01-2024|S|350.0|pera
+ivana|1116AC|5D|14-01-2024|S|315.0|pera
+milan|1126AD|4C|15-01-2024|S|390.0|pera
+milan|1126AD|4D|15-01-2024|S|390.0|pera
+ivana|1125AD|4B|15-01-2024|S|378.0|pera
+ivana|1125AD|4C|15-01-2024|S|378.0|pera
+Uros Zoric|1120AF|4C|15-01-2024|S|330.0|pera
+Uros Zoric|1120AF|4B|15-01-2024|S|330.0|pera
+ljubica|1124AD|3C|15-01-2024|R
+ljubica|1124AD|3B|15-01-2024|R
+Goran Mihajlovic|1121AC|3A|15-01-2024|S|450.0|rade
+Mina Milenkovic|1123AB|5C|15-01-2024|S|450.0|lazar
+Mina Milenkovic|1123AB|5D|15-01-2024|S|450.0|lazar
+ivana|1111AG|3A|15-01-2024|S|450.0|pera
+ivana|1111AG|3B|15-01-2024|S|450.0|pera
+ivana|1111AG|3C|15-01-2024|S|450.0|pera
+ivana|1111AG|3D|15-01-2024|R
+ivana|1111AG|3E|15-01-2024|S|450.0|pera

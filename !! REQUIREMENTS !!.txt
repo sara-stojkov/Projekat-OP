@@ -1,0 +1,4 @@
+Za projekat je potrebno instalirati:
+- prettytable biblioteku
+
+(komanda: pip install prettytable)

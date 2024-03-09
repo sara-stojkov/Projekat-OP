@@ -1,0 +1,14 @@
+Barbie|adventure,comedy,fantasy|114|Greta Gerwig|Margot Robbie Ryan Gosling|USA|2023|Barbie suffers a crisis.|True
+Pride and Prejudice|drama,romance|129|Joe Wright|Keira Knightley|USA|2005|Original enemies to lovers.|True
+Napoleon|action,biographical,drama|158|Ridley Scott|Vanessa Kirby|UK|2023|Napoleon is an epic spectacle.|True
+Thanksgiving|horror,mystery,thriller|107|Eli Roth|Patrick Dempsey|USA|2023|The town is in trouble...|True
+Little Women|drama,romance|135|Greta Gerwig|Saoirse Ronan Emma Watson|USA|2019|Jo March and her philosophies.|True
+Spider-Man: Homecoming|action,superhero,comedy|133|Jon Watts|Tom Holland|USA|2017|Peter Parker balances his lives.|True
+Titanic|romance,tragedy|150|James Cameron|Leonardo Dicaprio Kate Winslet|USA|1997|A classic that never gets old.|False
+The Dark Knight|action,superhero|152|Christopher Nolan|Christian Bale|USA|2008|The Batman.|True
+Star Wars|fantasy,sci-fi,action|140|J. J. Abrams|Harrison Ford Mark Hamill|USA|1977|The best series you'll see.|True
+Ladybird|comedy,drama|94|Greta Gerwig|Saoirse Ronan|USA|2017|Coming of age comedy.|True
+Dune|sci-fi,fantasy|155|Denis Villeneuve|Timothee Chalamet|UK|2021|Based on the bestseller book.|True
+Cuvari formule|documentary|132|Dragan Bjelogrlic|Alexis Manenti|Serbia|2023|Vinca. Hladni rat.|True
+Oppenheimer|action,documentary,biographical|180|Christopher Nolan|Cillian Murphy|USA|2023|Explosive.|True
+Mean Girls|comedy,drama|97|Mark Waters|Lindsay Lohan Rachel McAdams|USA|2004|A classic for every girl.|False

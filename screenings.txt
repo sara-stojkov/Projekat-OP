@@ -1,0 +1,16 @@
+1111|A1|19:30|21:24|monday,wednesday|Barbie|500.0|True
+1112|A1|17:00|18:54|saturday,sunday|Barbie|480.0|True
+1113|A1|19:00|21:38|tuesday|Napoleon|450.0|True
+1114|A2|17:00|19:12|monday|Cuvari formule|350.0|True
+1115|A2|18:00|19:47|wednesday|Thanksgiving|300.0|True
+1116|A1|14:00|15:47|saturday|Thanksgiving|300.0|True
+1117|A1|17:30|19:09|tuesday|Pride and Prejudice|300.0|True
+1118|A2|19:00|21:15|friday|Little Women|370.0|True
+1119|A1|20:00|22:35|friday|Dune|360.0|True
+1120|A2|13:00|15:32|tuesday,friday|The Dark Knight|380.0|True
+1121|A1|17:00|20:00|thursday|Oppenheimer|450.0|True
+1122|A2|16:00|17:34|tuesday,thursday|Ladybird|320.0|True
+1123|A1|19:00|21:35|sunday|Dune|400.0|True
+1124|A3|18:00|20:09|tuesday,thursday,saturday|Pride and Prejudice|330.0|True
+1125|A3|19:00|21:13|friday,sunday|Spider-Man: Homecoming|370.0|True
+1126|A3|19:30|21:50|monday,wednesday|Star Wars|390.0|True
